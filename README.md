@@ -4,4 +4,4 @@ This is the repository for Justin Oryan Go's digital portfolio. All the projects
 
 
 Credits to the maker of the creator of the html template AJ.
-Link to his github is aj@lkn.io
+Link to his github is https://aj.lkn.io/
